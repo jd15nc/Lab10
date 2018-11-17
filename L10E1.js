@@ -1,0 +1,3 @@
+function stopTime(){
+alert(para);
+}
